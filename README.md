@@ -3,7 +3,7 @@
 ### Nombre:Lesly Yareth Hernandez Bonilla*
 ### Matricula:180247
 #### Desarrollo de Dispositivos Inteligentes
-###Docente: M.T.I Marco A. Ramirez Hernandez
+### Docente: M.T.I Marco A. Ramirez Hernandez
 
 ![Banner](https://i.postimg.cc/28Zg3QFz/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
