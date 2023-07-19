@@ -1,8 +1,26 @@
-# DDI_TAREA9_180247
+# Universidad Tecnológica de Xicotepec de Juárez
+## Ingeniería en Desarrollo y Gestión de Software
+### Nombre:Lesly Yareth Hernandez Bonilla*
+### Matricula:180247
+#### Desarrollo de Dispositivos Inteligentes
+###Docente: M.T.I Marco A. Ramirez Hernandez
 
-**Implementacion del geopocisionamiento en dispositivos Wereables**
+![Banner](https://i.postimg.cc/28Zg3QFz/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
-**Nombre:Lesly Yareth Hernandez Bonilla**
- **Matricula:180247**
- **Materia: Desarrollo para Dispositivos Inteligentes**
- **Docente: M.T.I Marco A. Ramirez Hernandez**
+## Tarea 9
+
+## Descripción
+Implementacion del geopocisionamiento en dispositivos Wereables
+
+## Características
+| Característica         | Información                                                              |
+|------------------------|--------------------------------------------------------------------------|
+| Nombre                 | Tarea 3 Fuente, Animación, Imagen                                        |
+| Descripción            | Implementacion del geopocisionamiento en dispositivos Wereables          |
+| Fecha de Carga         | 24/05/23                                                                 |
+
+
+
+
+
+
